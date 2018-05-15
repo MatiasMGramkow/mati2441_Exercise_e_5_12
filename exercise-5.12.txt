@@ -1,0 +1,3 @@
+# exercise 5.12 How many hotels are there?
+
+SELECT COUNT(hotelNo) FROM Hotel;
